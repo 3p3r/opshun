@@ -1,6 +1,6 @@
 {
   "name": "opshun",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "type-safe version of the rc package",
   "main": "index.js",
   "scripts": {
