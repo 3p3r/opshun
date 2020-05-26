@@ -1,0 +1,31 @@
+{
+  "name": "opshun",
+  "version": "1.0.0",
+  "description": "type-safe version of the rc package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3p3r/opshun.git"
+  },
+  "keywords": [
+    "config",
+    "rc",
+    "unix",
+    "defaults"
+  ],
+  "author": "Sepehr Laal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3p3r/opshun/issues"
+  },
+  "homepage": "https://github.com/3p3r/opshun#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "parse-strings-in-object": "^2.0.0",
+    "rc": "^1.2.8",
+    "traverse": "^0.6.6"
+  }
+}
