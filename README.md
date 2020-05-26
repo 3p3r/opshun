@@ -1,0 +1,2 @@
+# opshun
+type safe "rc"
